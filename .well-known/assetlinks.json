@@ -1,8 +1,10 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.ocangbotz.twa",
-        "sha256_cert_fingerprints": ["A1:35:D8:2E:3C:5C:D4:1F:82:13:10:53:7F:8E:7D:BA:50:19:D8:78:18:0C:E5:0B:1C:D0:E2:7B:3F:BC:F0:F6"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.ocangbotz.twa",
+      "sha256_cert_fingerprints": ["A4:03:B1:06:B0:6A:A4:40:38:31:CD:E1:6A:94:61:9A:14:EE:AA:D4:CC:97:FF:BD:78:99:F3:17:F6:0A:27:F7"]
+    }
+  }
+]
